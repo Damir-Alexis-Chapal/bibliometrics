@@ -6,7 +6,7 @@ The goal is to analyze scientific publication data, extract relationships betwee
 
 ---
 
-## ⚙️ Environment Setup (Windows 10/11)
+## Environment Setup (Windows 10/11)
 
 ### Uninstall Python 3.14
 If you had Python 3.14 installed, uninstall it first:
@@ -20,11 +20,11 @@ If you had Python 3.14 installed, uninstall it first:
 
 ### Install Python 3.12
 Download and install **Python 3.12 (64-bit)** from:
-👉 [https://www.python.org/downloads/release/python-3126/](https://www.python.org/downloads/release/python-3126/)
+ [https://www.python.org/downloads/release/python-3126/](https://www.python.org/downloads/release/python-3126/)
 
 During installation:
-- ✅ Check **Add Python to PATH**
-- ✅ Select **Customize installation**
+- Check **Add Python to PATH**
+- Select **Customize installation**
 - Make sure the following options are enabled:
 - `pip`
 - `venv`
@@ -68,7 +68,7 @@ These packages are used for:
 - Text mining and NLP: nltk, scikit-learn
 
 ---
-👨‍💻 Author
+### Author
 
 Developed by Damir Alexis Chapal
 
